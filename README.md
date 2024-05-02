@@ -23,7 +23,3 @@ To see files, click [here](https://drive.google.com/drive/folders/1_LG9jvLUa8cGP
 
 
 
-
-
-
-### PART 1: Google Sheets for Data Manipulation
