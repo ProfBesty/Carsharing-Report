@@ -1,4 +1,4 @@
-# Carsharing-Report
+# CarSharing Report with SQL Queries
 ### This repo is a documentation of an analysis I did on carsharing data provided by Datafied Academy
 
 ## Project Overview
